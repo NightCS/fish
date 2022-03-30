@@ -2,7 +2,7 @@
 
 This is a theme for fish using the night colorscheme (using terminal colors, depend with the colors you have in your terminal configuration)
 
-![demonstration](./misc/demonstration)
+![demonstration](./misc/demonstration.png)
 
 ## Installation
 
